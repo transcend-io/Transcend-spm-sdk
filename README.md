@@ -53,7 +53,7 @@ TranscendWebView.transcendAPI.webAppInterface.getRegimes(completionHandler: { re
 ```
 
 ### Show Consent banner
-A reference to show the consent banner in sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L121)
+A reference for showing consent banner in the sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L121)
 
 ```
 import Transcend
@@ -92,6 +92,6 @@ struct ContentView: View {
 
 ## Source Stability
 
-The `Transcend-spm-sdk` package version numbers follow [Semantic Versioning](https://semver.org/). If there are any breaking changes that would impact backward compatability with you applcaition, you can expect us to release a major version.
+The `Transcend-spm-sdk` package version numbers follow [Semantic Versioning](https://semver.org/). If there are any breaking changes that would impact backward compatability with you application, you can expect us to release a major version.
 
-Issues found on this package can be reported on [Sample Repository](https://github.com/transcend-io/consent-manager-ios-sample-sdk) or on this repositry with set of reproduction steps.
+Issues found on this package can be reported on [Sample Repository](https://github.com/transcend-io/consent-manager-ios-sample-sdk) or here with set of reproduction steps.
