@@ -53,7 +53,7 @@ TranscendWebView.transcendAPI.webAppInterface.getRegimes(completionHandler: { re
 ```
 
 ### Show Consent banner
-A reference to show consent banner in sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L121)
+A reference to show the consent banner in sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L121)
 
 ```
 import Transcend
