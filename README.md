@@ -1,9 +1,9 @@
-# Transcend Consent Manager iOS sdk
+# Transcend Consent Manager iOS SDK
 
 ## Usage
 Please consult the documentation [here](https://docs.transcend.io/docs/consent-management/mobile-consent/ios) for more details.
 
-Please refer the Sample repository[here](https://github.com/transcend-io/consent-manager-ios-sample-sdk).
+Please refer the Sample repository [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk).
 
 ### Initialization of API instance 
 
