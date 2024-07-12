@@ -34,7 +34,7 @@ The reference for the API instance in the sample repository can be found [here](
 
 ### API Usage
 
-A reference for the API Usage in sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L33).
+A reference for the API usage in sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L33).
 - Full list of support APIs are listed [here](https://docs.transcend.io/docs/consent-management/mobile-consent/ios/api#1.0.9:definitions-and-usage-of-the-api).
 ```
 // Usage
@@ -53,7 +53,7 @@ TranscendWebView.transcendAPI.webAppInterface.getRegimes(completionHandler: { re
 ```
 
 ### Show Consent banner
-A reference for showing consent banner in the sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L121)
+A reference for displaying the consent banner in the sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/HomeView.swift#L121).
 
 ```
 import Transcend
