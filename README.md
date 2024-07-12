@@ -7,7 +7,7 @@ Please refer the Sample repository[here](https://github.com/transcend-io/consent
 
 ### Initialization of API instance 
 
-The reference for the API instance in the sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/sampleSDKApp.swift#L45)
+A reference for the API instance in the sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/sampleSDKApp.swift#L45)
 ```
     import SwiftUI
     import Transcend
