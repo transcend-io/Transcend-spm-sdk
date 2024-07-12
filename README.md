@@ -3,6 +3,8 @@
 ## Usage
 Please consult the documentation [here](https://docs.transcend.io/docs/consent-management/mobile-consent/ios) for more details.
 
+Please refer the [Sample repository](https://github.com/transcend-io/consent-manager-ios-sample-sdk)
+
 ### Initialization of API instance 
 
 The reference for the API instance in the sample repository can be found [here](https://github.com/transcend-io/consent-manager-ios-sample-sdk/blob/dev/sampleSDK/sampleSDKApp.swift#L45)
