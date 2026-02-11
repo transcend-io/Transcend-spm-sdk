@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Transcend",
-            url: "https://cdn.transcend.io/consent-manager-ios-library/releases/download/2.2.9/Transcend.xcframework.zip",
-            checksum: "62382336b4282514cd6ec8a8823dabf273439883c7b2dfbc785bbc1929341413"
+            url: "https://cdn.transcend.io/consent-manager-ios-library/releases/download/2.3.0/Transcend.xcframework.zip",
+            checksum: "79d38f2939774b5e5813abd7421b57970e87c0d4567f2426afddeafd53bfe2f3"
         ),
     ]
 )
